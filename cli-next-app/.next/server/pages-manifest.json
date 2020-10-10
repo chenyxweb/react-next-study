@@ -1,7 +1,17 @@
 {
   "/_app": "pages/_app.js",
+  "/api/hello": "pages/api/hello.js",
+  "/dynamicComponent": "pages/dynamicComponent.html",
+  "/getData": "pages/getData.js",
+  "/header": "pages/header.html",
+  "/": "pages/index.html",
+  "/lazy": "pages/lazy.html",
+  "/mine": "pages/mine.html",
+  "/post/[id]": "pages/post/[id].html",
+  "/router-a": "pages/router-a.html",
+  "/router-b": "pages/router-b.html",
+  "/style": "pages/style.html",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/post/[id]": "pages/post/[id].js",
-  "/router-a": "pages/router-a.js"
+  "/404": "pages/404.html"
 }

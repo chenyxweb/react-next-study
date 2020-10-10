@@ -1,3 +1,3 @@
-export default ({ children }) => {
-  return <button>{children}</button>
+export default ({ children, ...restProps }) => {
+  return <button {...restProps}>{children}</button>
 }

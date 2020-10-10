@@ -1,0 +1,1 @@
+{"ast":null,"code":"import React from \"react\";\nvar __jsx = React.createElement;\nimport styles from './index.module.scss';\n\nconst Style = () => {\n  return __jsx(\"div\", {\n    className: styles.Style\n  }, \"123\", __jsx(\"div\", {\n    className: styles.title\n  }, \"title\"));\n};\n\nexport default Style;","map":null,"metadata":{},"sourceType":"module"}
